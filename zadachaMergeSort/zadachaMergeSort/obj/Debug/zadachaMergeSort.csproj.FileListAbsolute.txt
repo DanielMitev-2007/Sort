@@ -1,0 +1,7 @@
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\bin\Debug\zadachaMergeSort.exe.config
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\bin\Debug\zadachaMergeSort.exe
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\bin\Debug\zadachaMergeSort.pdb
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\obj\Debug\zadachaMergeSort.csproj.AssemblyReference.cache
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\obj\Debug\zadachaMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\obj\Debug\zadachaMergeSort.exe
+C:\Users\MEGA\Desktop\zadachaMergeSort\zadachaMergeSort\obj\Debug\zadachaMergeSort.pdb
